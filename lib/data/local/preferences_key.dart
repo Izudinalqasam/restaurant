@@ -1,0 +1,3 @@
+class PreferencesKey {
+  static String NOTIFICATION_SCHEDULE_KEY = "NOTIFICATION_SCHEDULE_KEY";
+}
